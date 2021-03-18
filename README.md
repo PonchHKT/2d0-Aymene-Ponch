@@ -38,4 +38,4 @@ Error helper :
 
 > -> expo start
 
-Run it with Android Studio for better resolution.
+Run it with Android Studio for better visualisation.
