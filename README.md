@@ -1,4 +1,4 @@
-# Todolist - Aymene & Ponch
+# Expo Todolist - Aymene & Ponch
 
 ## Introduction
 
